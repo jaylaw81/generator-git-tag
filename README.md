@@ -1,33 +1,22 @@
-# generator-react-boiler
+# generator-git-tag
 
-> [Yeoman](http://yeoman.io) generator for [React](http://facebook.github.io/react/)
+> [Yeoman](http://yeoman.io) generator for Git Tags
 
-Simple component generator for ReactJS + Flux + Alt + JEST.
+Simple generator for creating a GIT tag
 
 ## Getting Started
 
 Install the generator:
 
 ```bash
-npm install -g generator-react-boiler
+npm install -g generator-git-tag
 ```
 
 Then run the generator:
 
 ```bash
-yo react-boiler
+yo git-tag
 ```
-
-## Running a JEST test
-
-Tests are located in `__tests__` directory
-
-```bash
-npm test
-```
-
-... and follow the prompts.
-
 
 ## Feedback?
 
