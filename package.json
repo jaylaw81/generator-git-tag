@@ -1,6 +1,6 @@
 {
   "name": "generator-git-tag",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Yeoman generator for creating GIT tags",
   "license": "MIT",
   "main": "app/index.js",
